@@ -1,0 +1,26 @@
+{
+  "name": "soundcloud-downloader",
+  "version": "1.0.0",
+  "description": "NodeJS Soundcloud Downloader",
+  "main": "download.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RauffIslam/soundcloud-downloader.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "download"
+  ],
+  "author": "Rauf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RauffIslam/soundcloud-downloader/issues"
+  },
+  "homepage": "https://github.com/RauffIslam/soundcloud-downloader#readme",
+  "dependencies": {
+    "node-id3": "^0.1.7"
+  }
+}
